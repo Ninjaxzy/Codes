@@ -1,9 +1,12 @@
 {
-
-"NinjaW": {
+  "NinjaW": {
     "Active": true,
     "RewardType": "Robux",
-    "RewardValue": "100000000"
-}
-
+    "RewardValue": 100000000
+  },
+  "Goal10Likes": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": 100000000
+  }
 }
