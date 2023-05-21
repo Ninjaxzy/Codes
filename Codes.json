@@ -2,11 +2,65 @@
   "NinjaW": {
     "Active": true,
     "RewardType": "Robux",
+    "RewardValue": 1000000
+  },
+  {
+  "FAVORITETHEGAME": {
+    "Active": true,
+    "RewardType": "Robux",
     "RewardValue": 100000000
   },
   "Goal10Likes": {
     "Active": true,
     "RewardType": "Robux",
-    "RewardValue": 100000000
+    "RewardValue": 1000000
   }
+{
+  "Didyouwait30minutesforthiscode?": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": 10000000
+  },
+  {
+  "I<3BACONS": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": 100000000
+  },
+{
+  "1HOUROFTHEMONTH": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": 10000000
+  },
+  {
+  "AdminCodes": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": 100000000
+  },
+  {
+  "EmerngyFund": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": 10000000
+  },
+      {
+  "I love ninja": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": 10000000
+  },
+   {
+  "PlsdonateXYZ": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": 10000000
+  },
+       {
+  "PartnerCode": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": 100000000
+  },
 }
