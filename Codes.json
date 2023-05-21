@@ -2,17 +2,12 @@
   "NinjaW": {
     "Active": true,
     "RewardType": "Robux",
-    "RewardValue": 1000000
-  },
-  "FAVORITETHEGAME": {
-    "Active": true,
-    "RewardType": "Robux",
     "RewardValue": 100000000
-  },
+ },
   "Goal10Likes": {
     "Active": true,
     "RewardType": "Robux",
-    "RewardValue": 1000000
+    "RewardValue": 100000000
   },
   "Didyouwait30minutesforthiscode?": {
     "Active": true,
@@ -139,7 +134,7 @@
     "RewardType": "Robux",
     "RewardValue": 100000000
   },
-  "9f9ejep2nvazs": {
+  "I<3BACONS": {
     "Active": true,
     "RewardType": "Robux",
     "RewardValue": 100000000
